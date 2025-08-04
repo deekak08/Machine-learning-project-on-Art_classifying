@@ -1,1 +1,0 @@
-# Machine-learning-project-on-Art_classifying
